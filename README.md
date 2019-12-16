@@ -44,3 +44,4 @@ Go to created folder and run:
 [deps-url]: https://david-dm.org/vkcom/create-vk-mini-app"# Truth-or-dare" 
 "# Truth-or-dare" 
 "# Truth-or-dare" 
+"# Truth" 
